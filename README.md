@@ -1,6 +1,6 @@
 # BinForL
 
-![alt text](https://github.com/Lewysan/BinForL/Desktop.PNG?raw=true)
+![alt text](http://github.com/Lewysan/BinForL/Desktop.PNG)
 
 N: (Exec as -e bash) (OBLIGATORIO) 
 
