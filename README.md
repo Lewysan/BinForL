@@ -1,10 +1,6 @@
 # BinForL
 
-<img
-  src="/BinForL/Desktop.PNG"
-  alt="Alt text"
-  title="asd"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+Desktop.PNG
 
 N: (Exec as -e bash) (OBLIGATORIO) 
 
