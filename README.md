@@ -2,8 +2,12 @@
 
 Un simple archivo comprimido de mi configuración en Linux compartida para StellarSquad. Configuraciones probadas SOLO en PARROT, Si se utiliza otro sistema, es mejor hacerlo desde 0, take it easy. Se han utilizado repositorios de otros creadores para lograr este sistema.
 
-Desktop o ambiente personalizado agregando paquetes de protección a la maquina como si ésta fuera una VPS, personalizada y protegida.
-¿Que necesidad hay de hacer esto? 95% Keyboard - 5% Mouse | Para más comodidad :).
+Sistema linux personalizado para tener comodidad. Agregados fueron algunos paquetes de protección a la maquina como si ésta fuera una VPS, esto para que? comodidad y seguridad :).
+
+~ Tyranzx - StellarSquad
+- HiroSquad y SternalSquad en mi corazón.
+
+- 95% Keyboard - 5% Mouse
 
 ![c123cxzc](https://user-images.githubusercontent.com/70720366/159963927-73053402-e361-42cc-9fd4-f61899aac780.PNG)
 
