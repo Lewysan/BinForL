@@ -21,7 +21,7 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 
 - Tyranzx's hands
 
-# DESKTOP IMAGES:
+# OLD DESKTOP IMAGES:
 ![Desktop](https://user-images.githubusercontent.com/70720366/159958550-b05012a1-a7a6-4181-b3ca-230d513a17a3.PNG)
 
 # TO REMOVE:
@@ -34,4 +34,10 @@ apt remove rwhod* libnumber-* libhtml* libnetfilter-* libmousepad0 pixz xdotool 
 - Google Chrome
 - Other
 
+#  ____  _       _ _            ____                        _
+# / ___|| |_ ___| | | __ _ _ __/ ___|  __ _ _   _  __ _  __| |
+# \___ \| __/ _ \ | |/ _` | '__\___ \ / _` | | | |/ _` |/ _` |
+#  ___) | ||  __/ | | (_| | |   ___) | (_| | |_| | (_| | (_| |
+# |____/ \__\___|_|_|\__,_|_|  |____/ \__, |\__,_|\__,_|\__,_|
+#                                        |_|
 
