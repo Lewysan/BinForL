@@ -1,6 +1,7 @@
 # BinForL
 
 ![Desktop](https://user-images.githubusercontent.com/70720366/159958550-b05012a1-a7a6-4181-b3ca-230d513a17a3.PNG)
+![CatDetail2](https://user-images.githubusercontent.com/70720366/159960114-b814c44f-b310-4120-8335-cd9b5d35d1d6.png)
 
 N: (Exec as -e bash) (OBLIGATORIO) 
 
@@ -22,3 +23,4 @@ cheese*
 finger
 libfakeroot
 faraday*
+
