@@ -1,7 +1,16 @@
 # BinForL
 
+- DESKTOP
 ![Desktop](https://user-images.githubusercontent.com/70720366/159958550-b05012a1-a7a6-4181-b3ca-230d513a17a3.PNG)
+
+- CAT DETAIL
 ![CatDetail2](https://user-images.githubusercontent.com/70720366/159960114-b814c44f-b310-4120-8335-cd9b5d35d1d6.png)
+
+- FAST SEARCH
+![FastSearch](https://user-images.githubusercontent.com/70720366/159960292-75d91c57-db41-4aad-ba57-060f41769f37.PNG)
+
+- BINARIES FOR LINUX LOOK LIKE
+![Diff](https://user-images.githubusercontent.com/70720366/159960433-c90cb1c8-a1dd-4120-901d-c74f649e9447.png)
 
 N: (Exec as -e bash) (OBLIGATORIO) 
 
