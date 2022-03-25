@@ -4,7 +4,7 @@ Un simple archivo comprimido de mi configuración en Linux compartida para Stell
 
 Sistema linux personalizado para tener comodidad. Agregados fueron algunos paquetes de protección a la maquina como si ésta fuera una VPS, esto para que? comodidad y seguridad :).
 
-~ Tyranzx - StellarSquad | HiroSquad y SternalSquad en mi corazón.
+~ redwTyranzx - StellarSquad | Un homenaje para HiroSquad 2018 y SternalSquad 2019-20 💕💕.
 
 - 95% Keyboard - 5% Mouse
 
