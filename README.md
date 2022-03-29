@@ -2,7 +2,7 @@
 
 Mi mejor proyecto:
 
-lewysan.github.io/BinForL
+https://lewysan.github.io/BinForL
 
 Sistema linux personalizado para tener comodidad. Agregados fueron algunos paquetes de protección a la maquina como si ésta fuera una VPS, esto para que? comodidad y seguridad :).
 
