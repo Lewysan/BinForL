@@ -15,7 +15,7 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 ![c123cxzc](https://user-images.githubusercontent.com/70720366/159963927-73053402-e361-42cc-9fd4-f61899aac780.PNG)
 
 - CAT DETAIL
-![Screenshot (14)](https://user-images.githubusercontent.com/70720366/161403821-089fab76-1b8d-4424-8ac1-f92b7e7e9260.png)
+![catDetail](https://user-images.githubusercontent.com/70720366/161403849-615fbd6b-501b-44de-af3c-4362b5a55249.PNG)
 
 - LS DETAIL
 ![c123xzc](https://user-images.githubusercontent.com/70720366/160018121-db513058-56de-428a-8b0f-791becafed53.PNG)
