@@ -10,6 +10,8 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 
 - 95% Keyboard - 5% Mouse
 
+![Screenshot (14)](https://user-images.githubusercontent.com/70720366/161403772-c863cba6-72db-4350-a923-b9e2367e8615.png)
+
 ![c123cxzc](https://user-images.githubusercontent.com/70720366/159963927-73053402-e361-42cc-9fd4-f61899aac780.PNG)
 
 - CAT DETAIL
