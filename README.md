@@ -1,8 +1,6 @@
 # BinForL
 
-Mi mejor proyecto:
-
-https://lewysan.github.io/BinForL
+Mi mejor proyecto actualmente:
 
 Sistema linux personalizado para tener comodidad. Agregados fueron algunos paquetes de protección a la maquina como si ésta fuera una VPS, esto para que? comodidad y seguridad :).
 
