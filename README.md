@@ -17,10 +17,10 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 
 - Tyranzx's hands (This repository: Files are private, I just wanted to share this "project")
 
-- CAT DETAIL
+# CAT DETAIL
 ![catDetail](https://user-images.githubusercontent.com/70720366/161403849-615fbd6b-501b-44de-af3c-4362b5a55249.PNG)
 
-- LS DETAIL
+# LS DETAIL
 ![c123xzc](https://user-images.githubusercontent.com/70720366/160018121-db513058-56de-428a-8b0f-791becafed53.PNG)
 
 # TO REMOVE:
