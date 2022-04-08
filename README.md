@@ -6,7 +6,7 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 
 ~ 👻 Tyranzx - StellarSquad | Un homenaje a HiroSquad 2018 y SternalSquad 2019-20 💕💕.
 
-- 95% Keyboard - 5% Mouse
+- Utilizo: 95% Keyboard - 5% Mouse
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/70720366/161403772-c863cba6-72db-4350-a923-b9e2367e8615.png)
 
