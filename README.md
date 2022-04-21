@@ -22,7 +22,10 @@ Sistema linux personalizado para tener comodidad. Agregados fueron algunos paque
 ![c123xzc](https://user-images.githubusercontent.com/70720366/160018121-db513058-56de-428a-8b0f-791becafed53.PNG)
 
 # TO REMOVE:
-apt remove rwhod* libnumber-* libhtml* libnetfilter-* pixz xdotool fastjar* firebird3.0-* finger firefox* fakeroot* libfakeroot faraday* fern-wifi* chirp* dbeaver* geany* git-cola* meld* zeal* brasero* cheese* vlc* vokoscreen* firefox-esr -y
+apt remove rwhod* libnumber-* libhtml* libnetfilter-* pixz xdotool fastjar* firebird3.0-* finger firefox* fakeroot* libfakeroot faraday* fern-wifi* chirp* dbeaver* geany* git-cola* meld* brasero* cheese* vlc* vokoscreen* firefox-esr -y
+
+# OPTIONAL REMOVE:
+zeal*
 
 # TO INSTALL MANUALLY:
 - Firefox
