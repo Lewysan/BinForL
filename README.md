@@ -1,7 +1,5 @@
 # BinForL
 
-Mi mejor proyecto actualmente:
-
 Sistema linux personalizado para tener comodidad. Agregados fueron algunos paquetes de protección a la maquina como si ésta fuera un server, esto para que? comodidad y seguridad :).
 
 ~ 👻 Tyranzx - StellarSquad | Un homenaje a HiroSquad 2018 y SternalSquad 2019-20 💕💕.
